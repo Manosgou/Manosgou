@@ -27,8 +27,6 @@
 
 My name is Manos Gouvrikos and i'm a Computer Science student from Greece. I am studying on the Department of Informatics at the International Hellenic University located in Kavala.Apart of my studies i am  working on various side projects,focused on programming.Feel free to explore them...
 
-🌐 Visit my [website](https://manosgou.herokuapp.com/)
-
 💬 On the chance that you might want to contact with me don't hesitate to send me a message or an email.
 
 📫 How to reach me:
